@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1090306874807",
+    "firebase_url": "https://solo-leveling-4ab30-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "solo-leveling-4ab30",
+    "storage_bucket": "solo-leveling-4ab30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090306874807:android:db9ff121852e23e4d85c32",
+        "android_client_info": {
+          "package_name": "com.example.solo_leveling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2q5t9M9x9_HjQbH51nKciOv3zkKDmVyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
