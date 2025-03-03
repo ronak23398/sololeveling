@@ -51,7 +51,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
 
       if (user != null) {
         // Initialize new user with default values
-        await userProvider.loadUser(user.uid);
+        await userProvider.loadUserData(user.uid);
         Navigator.pushReplacementNamed(context, '/home');
       } else {
         setState(() {

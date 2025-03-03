@@ -49,7 +49,7 @@ class _LoginScreenState extends State<LoginScreen> {
       );
 
       if (user != null) {
-        await userProvider.loadUser(user.uid);
+        await userProvider.loadUserData(user.uid);
         Navigator.pushReplacementNamed(context, '/home');
       } else {
         setState(() {
